@@ -1,0 +1,27 @@
+	------------------------------------------------------------------------------------------------------------------
+							Chennai Super Kings 
+	------------------------------------------------------------------------------------------------------------------
+
+	
+			Owner: Chennai Super Kings Cricket ltd.			Coach: Stephen Fleming
+			Venue: M. A. Chidambaram Stadium			Captain: MS Dhoni
+			Winning Years: 2010,2011,2018
+
+	------------------------------------------------------------------------------------------------------------------
+			No.	Name			Type		Nationality	Date Of Birth
+
+			1	Faf Du Plessis		Batsman		South African	13 July 1984
+			2	Moeen Ali		Batsmen		English		18 June 1987
+			3	Ruturaj Gaikwad		Batsman		Indian		31 January 1997
+			4	Suresh Raina		Batsman		Indian		27 November 1986
+			5	Ravindra Jadeja		Batsman		Indian		06 December 1988
+			6	Ambati Rayudu		Batsman		Indian		23 September 1985
+			7	Deepak Chahar		Bowler		Indian		07 August 1992
+			8	Sam Curran		Bowler		English		03 June 1998
+			9	Shardul Thakur		Bowler		Indian		16 October 1991
+			10	Lungi Ngidi		Bowler		South African	29 March 1996
+			11	Dwayne Bravo		Bowler		West Indian	07 October 1983
+	-------------------------------------------------------------------------------------------------------------------
+
+
+

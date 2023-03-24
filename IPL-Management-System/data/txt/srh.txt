@@ -1,0 +1,25 @@
+	------------------------------------------------------------------------------------------------------------------
+							Sunrisers Hyderabad
+	------------------------------------------------------------------------------------------------------------------
+
+
+		Owner: SUN TV Network							Coach: Trevor Bayliss
+		Venue: Rajiv Gandhi Intl. Cricket Stadium				Captain: David Warner
+		Winning Years: 2016
+
+	------------------------------------------------------------------------------------------------------------------
+		No.	Name			Type		Nationality	Date Of Birth
+
+		1	Jonny Bairstow		Batsman		English		26 September 1989
+		2	David Warner		Batsmen		Australian	27 October 1986
+		3	Manish Pandey		Batsman		Indian		10 September 1989
+		4	Kane Williamson		Batsman		New Zealander	08 August 1990
+		5	Vijay Shankar		Batsman		Indian		26 January 1991
+		6	Abdul Samad		Batsman		Indian		28 October 2001
+		7	Rashid Khan		Bowler		Afghan		20 September 1998
+		8	Khaleel Ahmed		Bowler		Indian		05 December 1997
+		9	Jason Holder		Bowler		West Indian	05 November 1991
+		10	Siddarth Kaul		Bowler		Indian		19 May 1990
+		11	Bhuvneshwar Kumar	Bowler		Indian		05 February 1990
+	-------------------------------------------------------------------------------------------------------------------
+

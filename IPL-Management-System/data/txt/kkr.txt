@@ -1,0 +1,29 @@
+	------------------------------------------------------------------------------------------------------------------
+						Kolkata Knight Riders 
+	------------------------------------------------------------------------------------------------------------------
+
+
+		Owner: Knight Riders Sports Private Ltd			Coach: Brendon McCullum
+		Venue: Eden Gardens					Captain: Eoin Morgan
+		Winning Years: 2012, 2014
+
+	------------------------------------------------------------------------------------------------------------------
+		No.	Name			Type		Nationality	Date Of Birth
+
+		1	Nitish Rana		Batsman		Indian		27 December 1994
+		2	Rahul Tripathi		Batsmen		Indian		02 March 1991
+		3	Andre Russell		Batsman		West Indian	29 April 1988
+		4	Dinesh Karthik		Batsman		Indian		01 June 1985
+		5	Pat Cummins		Batsman		Australian	08 May 1993
+		6	Shubhman Gill		Batsman		Indian		08 September 1999
+		7	Varun Chakaravarathy	Bowler		Indian		29 August 1991
+		8	Prasidh Krishna		Bowler		Indian		19 February 1996
+		9	Shakib Al Hasan		Bowler		Bangladeshi	24 March 1987
+		10	Shivam Mavi		Bowler		Indian		26 November 1998
+		11	Sunil Narine		Bowler		West Indian	26 May 1988
+	-------------------------------------------------------------------------------------------------------------------
+
+
+
+
+

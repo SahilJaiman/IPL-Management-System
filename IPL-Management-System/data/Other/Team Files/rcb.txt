@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------------------------------------------
+				Royal Challengers Bangalore
+------------------------------------------------------------------------------------------------------------------
+Owner: Royal Challengers Sports Private Ltd		Coach: Simon Katich
+Venue: M. Chinnaswamy Stadium				Captain: Virat Kohli
+Winning Years: -
+------------------------------------------------------------------------------------------------------------------
+No.	Name			Type		Nationality	Date Of Birth
+1	Glenn Maxwell		Batsman		Australian	14 October 1988
+2	Devdutt Padikkal	Batsmen		Indian		07 July 2000
+3	Virat Kohli		Batsman		Indian		05 November 1988
+4	Ab De Villiers		Batsman		South African	17 February 1984
+5	Kyle Jamieson		Batsman		New Zealander	30 December 1994
+6	Washington Sundar	Batsman		Indian		05 October 1999
+7	Harshal Patel		Bowler		Indian		23 November 1990
+8	Mohammed Siraj		Bowler		Indian		13 March 1994
+9	Shahbaz Ahmed		Bowler		Indian		11 December 1994
+10	Yuzvendra Chahal	Bowler		Indian		23 July 1990
+11	Kane Richardson		Bowler		Australian	12 February 1991
+-------------------------------------------------------------------------------------------------------------------

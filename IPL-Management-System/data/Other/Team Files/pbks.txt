@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------------------------------------------
+				Punjab Kings
+------------------------------------------------------------------------------------------------------------------
+Owner: KPH Dream Cricket Private Limited		Coach: Anil Kumble
+Venue: IS Bindra Stadium				Captain: KL Rahul
+Winning Years: -
+------------------------------------------------------------------------------------------------------------------
+No.	Name			Type		Nationality	Date Of Birth
+1	KL Rahul		Batsman		Indian		18 April 1992
+2	Mayank Aggarwal		Batsmen		Indian		18 February 1991
+3	Chris Gayle		Batsman		West Indian	21 September 1979
+4	Deepak Hooda		Batsman		Indian		19 April 1995
+5	Shahrukh Khan		Batsman		Indian		27 May 1995
+6	Jhye Richardson		Batsman		Australian	20 September 1996
+7	Arshdeep Singh		Bowler		Indian		05 February 1999
+8	Mohammad Shami		Bowler		Indian		03 September 1990
+9	Ravi Bishnoi		Bowler		Indian		05 September 2000
+10	Riley Meredith		Bowler		Australian	21 June 1996
+11	Fabian Allen		Bowler		West Indian	07 May 1995
+-------------------------------------------------------------------------------------------------------------------

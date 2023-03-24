@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------------------------------------------
+				Mumbai Indians
+------------------------------------------------------------------------------------------------------------------
+Owner: Indiawin Sports Pvt. Ltd				Coach: Mahela Jayawardene
+Venue: Wankhede Stadium				Captain: Rohit Sharma
+Winning Years: 2013, 2015, 2017, 2019, 2020
+------------------------------------------------------------------------------------------------------------------
+No.	Name			Type		Nationality	Date Of Birth
+1	Rohit Sharma		Batsman		Indian		30 April 1987
+2	Suryakumar Yadav	Batsmen		Indian		14 September 1990
+3	Ishan Kishan		Batsman		Indian		18 July 1998
+4	Kieron Pollard		Batsman		West Indian	12 May 1987
+5	Quinton De Kock		Batsman		South African	17 December 1992
+6	Chris Lynn		Batsman		Australian	10 April 1990
+7	Rahul Chahar		Bowler		Indian		04 August 1999
+8	Trent Boult		Bowler		New Zealander	22 July 1989
+9	Jasprit Bumrah		Bowler		Indian		06 December 1993
+10	Krunal Pandya		Bowler		Indian		24 March 1991
+11	Marco Jansen		Bowler		South African	01 May 2000
+-------------------------------------------------------------------------------------------------------------------

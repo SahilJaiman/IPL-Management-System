@@ -1,0 +1,17 @@
+Teams				Mat	Won	Lost	Pts	
+
+Mumbai Indians			14	9	5	18		
+
+Delhi Capitals			14	8	6	16	
+
+Sunrisers Hyderabad		14	7	7	14	
+
+Royal Challengers Bangalore	14	7	7	14
+
+Kolkata Knight Riders		14	7	7	14	
+
+Punjab Kings			14	6	8	12	
+
+Chennai Super Kings		14	6	8	12	
+
+Rajasthan Royals		14	6	8	12	

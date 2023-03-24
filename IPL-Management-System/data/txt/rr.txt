@@ -1,0 +1,25 @@
+	------------------------------------------------------------------------------------------------------------------
+							Rajasthan Royals
+	------------------------------------------------------------------------------------------------------------------
+
+
+		Owner: Royal Multisport Pvt. Ltd					Coach: -
+		Venue: Sawai Mansingh Stadium						Captain: Sanju Samson
+		Winning Years: 2008
+
+	------------------------------------------------------------------------------------------------------------------
+		No.	Name			Type		Nationality	Date Of Birth
+
+		1	Sanju Samson		Batsman		Indian		11 November 1994
+		2	Shivam Dube		Batsmen		Indian		26 June 1993
+		3	Jos Buttler		Batsman		English		08 September 1990
+		4	David Miller		Batsman		South African	10 June 1989
+		5	Rahul Tewatia		Batsman		Indian		20 May 1993
+		6	Riyan Parag		Batsman		Indian		10 November 2001
+		7	Manan Vohra		Batsmen		Indian		18 July 1993
+		8	Chris Morris		Bowler		South African	30 April 1987 	
+		9	Chetan Sakariya		Bowler		Indian		28 February 1998
+		10	Jaydev Unadkat		Bowler		Indian		18 October 1991
+		11	Mustafizur Rahman	Bowler		Bangladeshi	06 September 1995
+	-------------------------------------------------------------------------------------------------------------------
+

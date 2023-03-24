@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------------------------------------------
+				Delhi Capitals
+------------------------------------------------------------------------------------------------------------------
+Owner: GMR Sports Pvt .Ltd & JSW Sports Pvt Ltd		Coach: Ricky Ponting
+Venue: Arun Jaitley Stadium				Captain: Rishab Pant
+Winning Years: -
+------------------------------------------------------------------------------------------------------------------
+No.	Name			Type		Nationality	Date Of Birth
+1	Shikhar Dhawan		Batsman		Indian		05 December 1985
+2	Prithvi Shaw		Batsmen		Indian		09 November 1999
+3	Rishabh Pant		Batsman		Indian		04 October 1997
+4	Steve Smith		Batsman		Australian	02 June 1989
+5	Lalit Yadav		Batsman		Indian		03 January 1997
+6	Marcus Stoinis		Batsman		Australian	16 August 1989
+7	Avesh Khan		Bowler		Indian		13 December 1996
+8	Amit Mishra		Bowler		Indian		24 November 1982
+9	Chris Woakes		Bowler		English		02 March 1989
+10	Kagiso Rabada		Bowler		South African	25 May 1995
+11	Ravichandran Ashwin	Bowler		Indian		17 September 1986
+-------------------------------------------------------------------------------------------------------------------
